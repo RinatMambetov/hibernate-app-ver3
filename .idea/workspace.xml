@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d71b649a-ee8a-4400-aac3-12ae18a948fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/rinat/hibernateApp3/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/rinat/hibernateApp3/model/Passport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/rinat/hibernateApp3/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sql/check.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sql/create.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sql/drop.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dev/rinat/hibernateApp3/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/rinat/hibernateApp3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/rinat/hibernateApp3/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/rinat/hibernateApp3/model/Passport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/rinat/hibernateApp3/model/Passport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/create.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

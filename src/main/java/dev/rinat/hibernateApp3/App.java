@@ -15,10 +15,10 @@ public class App {
         try {
             currentSession.beginTransaction();
 
-//            Person person = new Person("Rinat", 23);
-//            Passport passport = new Passport(123);
-//            person.setPassport(passport);
-//            currentSession.persist(person);
+            Person person = new Person("Rinat", 23);
+            Passport passport = new Passport(123);
+            person.setPassport(passport);
+            currentSession.persist(person);
 
 //            Person person = currentSession.get(Person.class, 1);
 //            System.out.println(person.getPassport().getPassportNumber());
@@ -29,8 +29,8 @@ public class App {
 //            Person person = currentSession.get(Person.class, 1);
 //            person.getPassport().setPassportNumber(777);
 
-            Person person = currentSession.get(Person.class, 1);
-            currentSession.remove(person);
+//            Person person = currentSession.get(Person.class, 1);
+//            currentSession.remove(person);
 
             currentSession.getTransaction().commit();
         } finally {
